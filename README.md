@@ -9,4 +9,14 @@ The standard app for flutter beginner who need a example app include all basic f
 - List view with custom item 
 and more etc.
 
+
+## Branch: 
+ # - Template 1: 
+    Feature: 
+        - Flash/Welcome screen:
+        - Login 
+        - Register 
+        - Home #()
+
+
 ## COPY RIGHT BY TAMNGUYEN - ALBERTNGUYEN 
