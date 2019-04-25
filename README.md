@@ -16,7 +16,8 @@ and more etc.
         - Flash/Welcome screen:
         - Login 
         - Register 
-        - Home #()
+        - Home:
+            - Drawer menu
 
 
 ## COPY RIGHT BY TAMNGUYEN - ALBERTNGUYEN 
