@@ -22,7 +22,6 @@ class RegisterScreen extends BaseStatelessWidget {
     );
   }
 
-  /// Form
   /// include edit text for user name, password, retype password , button register , button cancel
   Widget _formRegister() {
     return Column(children: <Widget>[
